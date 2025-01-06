@@ -1,0 +1,1 @@
+sliderSettings = { animationTime: 0 };
