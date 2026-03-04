@@ -1,1 +1,0 @@
-sliderSettings = { animationTime: 0 };
